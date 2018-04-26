@@ -57,7 +57,7 @@ MIT/X11 ソフトウェア ライセンスの下で配布されています。�
     <message>
         <location line="+14"/>
         <source>Copy the currently selected address to the system clipboard</source>
-        <translation>現在選択されているアドレスをシステムのクリップボードにコピーする</translation>
+        <translation>現在選択されているアドレスをクリップボードにコピーする</translation>
     </message>
     <message>
         <location line="-11"/>
@@ -67,7 +67,7 @@ MIT/X11 ソフトウェア ライセンスの下で配布されています。�
     <message>
         <location line="-46"/>
         <source>These are your SanDeGo addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>これは支払いを受けるためのSanDeGoのアドレス。支払い管理をするのため、各送信者へ、それぞれのアドレスを伝えたほうがいいです。</translation>
+        <translation>これらは支払いを受け取るSanDeGoのアドレスです。あなたに支払っている人を追跡することができるように、それぞれの送信者に異なるもの教えたほうがいいかもしれません</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -77,7 +77,7 @@ MIT/X11 ソフトウェア ライセンスの下で配布されています。�
     <message>
         <location line="+11"/>
         <source>Show &amp;QR Code</source>
-        <translation>QRコードを表す</translation>
+        <translation>QRコードを表示する</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -132,12 +132,12 @@ MIT/X11 ソフトウェア ライセンスの下で配布されています。�
     <message>
         <location line="+13"/>
         <source>Error exporting</source>
-        <translation>エラーを書き出す</translation>
+        <translation>エラーを出力</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Could not write to file %1.</source>
-        <translation>ファイルを書き込めなかった。%1</translation>
+        <translation>ファイルに書き込めませんでした　%1</translation>
     </message>
 </context>
 <context>
@@ -193,7 +193,7 @@ MIT/X11 ソフトウェア ライセンスの下で配布されています。�
     <message>
         <location filename="../askpassphrasedialog.cpp" line="+35"/>
         <source>Enter the new passphrase to the wallet.&lt;br/&gt;Please use a passphrase of &lt;b&gt;10 or more random characters&lt;/b&gt;, or &lt;b&gt;eight or more words&lt;/b&gt;.</source>
-        <translation>ウォレットの新しいパスフレーズを入力してください。&lt;br/&gt;&lt;b&gt;8個以上の単語か10個以上のランダムな文字&lt;/b&gt;を使ってください。</translation>
+        <translation>ウォレットの新しいパスフレーズを入力してください。&lt;br/&gt;&lt;b&gt;8個以上の単語か10個以上のランダムな文字&lt;/b&gt;を使用してください。</translation>
     </message>
     <message>
         <location line="+1"/>
